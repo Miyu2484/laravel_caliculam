@@ -13,7 +13,7 @@ class Post extends Model
         return $this->orderBy('updated_at', 'DESC')->paginate($limit_count);
     }
 =======
- dev_basis02
+ 
     public function getPaginateByLimit(int $limit_count = 5)
     {
     // updated_atで好順に並べたあと、limitで件数制限をかける
