@@ -12,7 +12,6 @@
     </head>
     <body>
      
-
           <h1>Blog Name</h1>
         <p class='create'>[<a href='/posts/create'>create</a>]</p>
      <h1>Blog Name</h1>
